@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class Main {
     
     public static void novaBusca() {
-        System.out.println("--------------------------------------------");
+        System.out.println("---------------------------------------------");
         System.out.println("Deseja fazer uma nova busca? 1 = Sim, 2 = Não");
     }
     
